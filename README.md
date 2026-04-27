@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @RishabhVarma
-- 👀 I’m interested in Finance/Fintech related internships.
-- 🌱 Currently pursuing MSc in Blockchain and Financial Technology from the University of East London.
-- 💞️ I’m looking to collaborate on any finance related project or workshop.
-- 📫 How to reach me +44 7748 691649             
-                      E-mail: rishabhvarma603@gmail.com
-<!---
-RishabhVarma/RishabhVarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi, I'm Rishabh Varma
+
+Finance & Data Analyst | MSc Blockchain & Financial Technology (Distinction)
+
+Background: 3+ years building ETL pipelines, financial dashboards, and 
+quantitative models at MSCI and Heartwood Care Group.
+
+Currently learning: Python (Pandas, APIs, Web3.py) for blockchain analytics
+Goal: Blockchain/DeFi analyst role at a London fintech or digital-assets firm
+
+### Skills
+- 📊 Power BI · SQL · Advanced Excel · Financial Modelling
+- 🐍 Python (in development) · Pandas · Matplotlib
+- ⛓️ DeFi Protocols · EVM · Smart Contracts · ALM
+
+### Featured Project (Launching April 2026)
+🔗 Ethereum Treasury Analytics Dashboard - Python tool tracking
+on-chain treasury flows using Web3.py, Infura, and Pandas.
+
+📧 rishabhvarma603@gmail.com
+🔗 linkedin.com/in/rishabhvarma
